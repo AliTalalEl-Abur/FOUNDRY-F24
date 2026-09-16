@@ -21,3 +21,8 @@ _
 .vite
 .wrangler
 *.zip
+
+# Foundry / ZKsync build artifacts
+cache/
+zkout/
+anvil-zksync.log
